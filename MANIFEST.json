@@ -1,0 +1,71 @@
+{
+  "purpose": "Li-Liu spectral S research archive (draft, not validated publication)",
+  "compiled_from": "conversation-shared Gemini and GPT research excerpts, 2026-11-23",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 52,
+      "sha256": "b8d188689ef2bb7c803fca33a337db64463b233212b40897b727d8bcbcbc3061"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2957,
+      "sha256": "636b5f84efa44b920c99d45035dc70a01b7ccdc4b78f4f9b1646dd40b09147a4"
+    },
+    {
+      "path": "STATUS.md",
+      "bytes": 2773,
+      "sha256": "63c8028c672998393069a97aa667631b4ca5c978167b3ffbf08aab76c9936080"
+    },
+    {
+      "path": "conditional/lemma1-via-reproducing-kernel.md",
+      "bytes": 1464,
+      "sha256": "44449b9f9aa3804b7e2e7e2e856ed9bdcb6a0b5dd14bc535f5a35520f9571800"
+    },
+    {
+      "path": "conditional/measure-convergence.md",
+      "bytes": 1161,
+      "sha256": "fe68b73657e2fefabb46621d57f8b876e496cd27df8bdbadf327d4cae93c8fd5"
+    },
+    {
+      "path": "history/gemini-verification-iterations.md",
+      "bytes": 2590,
+      "sha256": "80720d479354dab5f21f3888c8cdfcfbee0c20bfb08866c227361f26e696c58c"
+    },
+    {
+      "path": "invalidated/grh-disproof.md",
+      "bytes": 1255,
+      "sha256": "ddd6cf8beb7a041f934efea6516d407105afd4bf842f4ca173a46f74d9c96f90"
+    },
+    {
+      "path": "links/sources.md",
+      "bytes": 1270,
+      "sha256": "27a3040f45a1c3dc886487db63208f14b23bb6c8dec53032a9e3b99c1126459e"
+    },
+    {
+      "path": "needs-review/lemma2-plancherel.md",
+      "bytes": 2746,
+      "sha256": "4ad8f29285aac2005bf96f4982da5227c4ca4af89689c893e595d259505a582f"
+    },
+    {
+      "path": "needs-review/lemma3-low-frequency.md",
+      "bytes": 798,
+      "sha256": "da4ada61802fa81f0d4a5ca8e5e171fae7d751697c039c34560e7c3c4777e566"
+    },
+    {
+      "path": "verified/euler-product.md",
+      "bytes": 1903,
+      "sha256": "8c33e5892ef8db037fb46bd689be7cd1942f11d0c77f7fbc1142b9ec935d6252"
+    },
+    {
+      "path": "verified/fejer-lorentz.md",
+      "bytes": 1144,
+      "sha256": "656366175a7caed77a99c5d863f7502a683e7cbb62bb63eb5864984c703449a0"
+    },
+    {
+      "path": "verified/weak-S-quantifiers.md",
+      "bytes": 1472,
+      "sha256": "b349e5cab2d597f569899a174a48d13971dcf915a42636888f72b2e31288cab3"
+    }
+  ]
+}
